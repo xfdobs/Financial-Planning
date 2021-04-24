@@ -23,8 +23,8 @@ Try adjusting the portfolio to either include more risk (a higher stock than bon
 
 ## Examples of analysis:
 
-![Image](Images/chart1.jpg)
+![Image](Images/chart1.JPG)
 
-![Image](Images/chart2.jpg)
+![Image](Images/chart2.JPG)
 
 
